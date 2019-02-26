@@ -11,6 +11,8 @@
 7. [Árvores](#árvores)
 8. [Pontos](#pontos)
 
+---
+
 #### Conjuntos
 
 Implementações:
@@ -28,6 +30,10 @@ Datas
 - Entrega do notebook: 07/03
 - Tutorial: 07/03
 
+[Voltar para o índice](#cronograma)
+
+---
+
 #### Dicionários
 
 Implementações:
@@ -43,6 +49,10 @@ Grupo 6
 Datas
 - Entrega do notebook: 07/03
 - Tutorial: 12/03
+
+[Voltar para o índice](#cronograma)
+
+---
 
 #### Listas
 
@@ -61,6 +71,10 @@ Datas
 - Entrega do notebook: 12/03
 - Tutorial: 14/03
 
+[Voltar para o índice](#cronograma)
+
+---
+
 #### Listas ordenadas automaticamente
 
 Implementações:
@@ -77,6 +91,10 @@ Grupo 3
 Datas
 - Entrega do notebook: 14/03
 - Tutorial: 19/03
+
+[Voltar para o índice](#cronograma)
+
+---
 
 #### Pilhas
 
@@ -95,6 +113,10 @@ Datas
 - Entrega do notebook: 19/03
 - Tutorial: 21/03
 
+[Voltar para o índice](#cronograma)
+
+---
+
 #### Filas e deques
 
 Implementações:
@@ -112,6 +134,10 @@ Datas
 - Entrega do notebook: 21/03
 - Tutorial: 26/03
 
+[Voltar para o índice](#cronograma)
+
+---
+
 #### Árvores
 
 Implementações:
@@ -126,6 +152,10 @@ Grupo 8
 Datas
 - Entrega do notebook: 26/03
 - Tutorial: 28/03
+
+[Voltar para o índice](#cronograma)
+
+---
 
 #### Pontos
 
@@ -143,3 +173,5 @@ Grupo 5
 Datas
 - Entrega do notebook: 28/03
 - Tutorial: 02/04
+
+[Voltar para o índice](#cronograma)
