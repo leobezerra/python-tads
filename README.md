@@ -39,7 +39,7 @@ Datas
 - Entrega do notebook: 12/03
 - Tutorial: 14/03
 
-#### Listas ordenadas (`SortedList`, do módulo `sortedcontainers`)
+#### Listas ordenadas (`sortedcontainers.SortedList`)
 
 Grupo 3
 - Álvaro Prudêncio Araújo
