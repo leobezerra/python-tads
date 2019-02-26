@@ -2,7 +2,20 @@
 
 ## Cronograma
 
-#### Conjuntos (`set`)
+1. [Conjuntos](#conjuntos)
+2. [Dicionários](#dicionários)
+3. [Listas](#listas)
+4. [Listas ordenadas automaticamente](#listas-ordenadas-automaticamente)
+5. [Pilhas](#pilhas)
+6. [Filas e deques](#filas-e-deques)
+7. [Árvores](#árvores)
+8. [Pontos](#pontos)
+
+#### Conjuntos
+
+Implementações:
+- Python: `set`
+- C++: `unordered_set`
 
 Grupo 4
 - ANDERSON PEREIRA TORRES DE SÁ NETO
@@ -15,18 +28,27 @@ Datas
 - Entrega do notebook: 07/03
 - Tutorial: 07/03
 
-#### Dicionários (`dict`)
+#### Dicionários
+
+Implementações:
+- Python: `dict`
+- C++: `unordered_map`
 
 Grupo 6
 - MARCELO EZEQUIEL MOURA ARAGÃO
 - MARLON SECUNDO DE OLIVEIRA FERREIRA
 - JOÃO VÍTOR FONSECA DE MENDONÇA
+- JOÃO MARCOS PEREIRA BEZERRA
 
 Datas
 - Entrega do notebook: 07/03
 - Tutorial: 12/03
 
-#### Listas (`list`)
+#### Listas
+
+Implementações:
+- Python: `list`
+- C++: `array, vector, list, forward_list`
 
 Grupo 2
 - Acsa Laiane Arcanjo Augusto
@@ -39,7 +61,11 @@ Datas
 - Entrega do notebook: 12/03
 - Tutorial: 14/03
 
-#### Listas ordenadas (`sortedcontainers.SortedList`)
+#### Listas ordenadas automaticamente
+
+Implementações:
+- Python: `sortedcontainers.SortedList`
+- C++: `multiset`
 
 Grupo 3
 - Álvaro Prudêncio Araújo
@@ -52,7 +78,11 @@ Datas
 - Entrega do notebook: 14/03
 - Tutorial: 19/03
 
-#### Pilhas (Python não vem com pilhas 😞)
+#### Pilhas
+
+Implementações:
+- Python: Python não vem com pilhas 😞
+- C++: `stack`
 
 Grupo 7
 * Abraão Lincol R. Cavalcante
@@ -65,7 +95,11 @@ Datas
 - Entrega do notebook: 19/03
 - Tutorial: 21/03
 
-#### Filas e deques (`queue`, `deque`)
+#### Filas e deques
+
+Implementações:
+- Python: `queue` e `deque`
+- C++: `queue` e `deque`
 
 Grupo 1
 - Bruna Soares
@@ -78,7 +112,11 @@ Datas
 - Entrega do notebook: 21/03
 - Tutorial: 26/03
 
-#### Árvores (milhões de bibliotecas 🤠)
+#### Árvores
+
+Implementações:
+- Python: milhões de bibliotecas 🤠 (`pptree`, por exemplo)
+- C++: bibliotecas (`Boost.PropertyTree`, por exemplo)
 
 Grupo 8
 - Fernando Igor
@@ -89,7 +127,11 @@ Datas
 - Entrega do notebook: 26/03
 - Tutorial: 28/03
 
-#### Extra: listas ordenadas multidimensionais (`scipy.spatial.KDTree`)
+#### Pontos
+
+Implementações:
+- Python: `scipyt.Spatial.KDTree`
+- C++: bibliotecas
 
 Grupo 5
 - Gabriel Rocha de Souza
