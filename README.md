@@ -4,7 +4,7 @@
 
 1. [Conjuntos](#conjuntos)
 2. [Dicionários](#dicionários)
-3. [Listas](#listas)
+3. [Listas ordenadas manualmente](#listas-ordenadas-manualmente)
 4. [Listas ordenadas automaticamente](#listas-ordenadas-automaticamente)
 5. [Pilhas](#pilhas)
 6. [Filas e deques](#filas-e-deques)
@@ -54,7 +54,7 @@ Datas
 
 ---
 
-#### Listas
+#### Listas ordenadas manualmente
 
 Implementações:
 - Python: `list`
