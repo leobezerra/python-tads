@@ -81,7 +81,7 @@ Datas
 #### Pilhas
 
 Implementações:
-- Python: Python não vem com pilhas 😞
+- Python: `queue.LifoQueue`
 - C++: `stack`
 
 Grupo 7
@@ -98,7 +98,7 @@ Datas
 #### Filas e deques
 
 Implementações:
-- Python: `queue` e `deque`
+- Python: `queue.FifoQueue` e `collections.deque`
 - C++: `queue` e `deque`
 
 Grupo 1
