@@ -149,6 +149,7 @@ Grupo 8
 - Fernando Igor
 - Italo Bruno 
 - Keler Yohan
+- Leonardo Santos
 
 Datas
 - Entrega do notebook: 26/03
