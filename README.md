@@ -145,6 +145,7 @@ Implementações:
 - C++: bibliotecas (`Boost.PropertyTree`, por exemplo)
 
 Grupo 8
+- Felipe Eduardo
 - Fernando Igor
 - Italo Bruno 
 - Keler Yohan
