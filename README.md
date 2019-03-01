@@ -162,7 +162,7 @@ Datas
 #### Pontos
 
 Implementações:
-- Python: `scipyt.Spatial.KDTree`
+- Python: `scipy.Spatial.KDTree`
 - C++: bibliotecas
 
 Grupo 5
