@@ -9,7 +9,7 @@
 5. [Pilhas](#pilhas)
 6. [Filas e deques](#filas-e-deques)
 7. [Árvores](#árvores)
-8. [Pontos](#pontos)
+8. [Espaço particionado](#espaço-particionado)
 
 ---
 
@@ -159,7 +159,7 @@ Datas
 
 ---
 
-#### Pontos
+#### Espaço particionado
 
 Implementações:
 - Python: `scipy.Spatial.KDTree`
