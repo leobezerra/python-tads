@@ -19,12 +19,12 @@ Implementações:
 - Python: `set`
 - C++: `unordered_set`
 
-Grupo 4
-- ANDERSON PEREIRA TORRES DE SÁ NETO
-- DANILO MIRANDA DE MEDEIROS GALVÃO
-- JOÃO MENDES LOPES NETO
--	MATEUS FIRMINO BARROS
-- MATHEUS COELHO GURGEL DO AMARAL
+Autores
+- ANDERSON PEREIRA TORRES DE SÁ NETO - [github/andersonptsn](https://github.com/andersonptsn)
+- DANILO MIRANDA DE MEDEIROS GALVÃO - [github/Fisiquelaz](https://github.com/Fisiquelaz)
+- JOÃO MENDES LOPES NETO - [github/joaomendesln](https://github.com/joaomendesln)
+-	MATEUS FIRMINO BARROS - [github/mateusfb](https://github.com/mateusfb)
+- MATHEUS COELHO GURGEL DO AMARAL - [github/matheuscga](https://github.com/matheuscga)
 
 Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rENcSBJgXSGkLNTm4E4gLrZqdkT4BlLA)
