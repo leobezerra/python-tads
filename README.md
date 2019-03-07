@@ -26,6 +26,10 @@ Grupo 4
 -	MATEUS FIRMINO BARROS
 - MATHEUS COELHO GURGEL DO AMARAL
 
+Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rENcSBJgXSGkLNTm4E4gLrZqdkT4BlLA)
+
+
 Datas
 - Entrega do notebook: 07/03
 - Tutorial: 07/03
