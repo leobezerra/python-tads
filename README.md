@@ -31,7 +31,7 @@ Autores
 - MATHEUS COELHO GURGEL DO AMARAL - [github/matheuscga](https://github.com/matheuscga)
 
 Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rENcSBJgXSGkLNTm4E4gLrZqdkT4BlLA)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/01.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
 
 [Voltar para o índice](#índice)
