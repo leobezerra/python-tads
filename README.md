@@ -1,5 +1,9 @@
 # Tipos abstratos de dados com Python
 
+Este repositório foi pensado para quem já programa em Python, mas ainda não teve contato profundo com abstrações de alto nível como conjuntos e árvores.
+
+> Se você ainda não teve o primeiro contato com Python, dê uma olhada neste [repositório](https://github.com/leobezerra/python-zero) 🙃
+
 ## Cronograma
 
 1. [Conjuntos](#conjuntos)
@@ -28,11 +32,7 @@ Autores
 
 Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rENcSBJgXSGkLNTm4E4gLrZqdkT4BlLA)
-
-
-Datas
-- Entrega do notebook: 07/03
-- Tutorial: 07/03
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
 
 [Voltar para o índice](#cronograma)
 
