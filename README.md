@@ -4,7 +4,7 @@ Este repositório foi pensado para quem já programa em Python, mas ainda não t
 
 > Se você ainda não teve o primeiro contato com Python, dê uma olhada neste [repositório](https://github.com/leobezerra/python-zero) 🙃
 
-## Cronograma
+## Índice
 
 1. [Conjuntos](#conjuntos)
 2. [Dicionários](#dicionários)
@@ -34,7 +34,7 @@ Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rENcSBJgXSGkLNTm4E4gLrZqdkT4BlLA)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
 
-[Voltar para o índice](#cronograma)
+[Voltar para o índice](#índice)
 
 ---
 
@@ -54,7 +54,7 @@ Datas
 - Entrega do notebook: 07/03
 - Tutorial: 12/03
 
-[Voltar para o índice](#cronograma)
+[Voltar para o índice](#índice)
 
 ---
 
@@ -75,7 +75,7 @@ Datas
 - Entrega do notebook: 12/03
 - Tutorial: 14/03
 
-[Voltar para o índice](#cronograma)
+[Voltar para o índice](#índice)
 
 ---
 
@@ -96,7 +96,7 @@ Datas
 - Entrega do notebook: 14/03
 - Tutorial: 19/03
 
-[Voltar para o índice](#cronograma)
+[Voltar para o índice](#índice)
 
 ---
 
@@ -117,7 +117,7 @@ Datas
 - Entrega do notebook: 19/03
 - Tutorial: 21/03
 
-[Voltar para o índice](#cronograma)
+[Voltar para o índice](#índice)
 
 ---
 
@@ -138,7 +138,7 @@ Datas
 - Entrega do notebook: 21/03
 - Tutorial: 26/03
 
-[Voltar para o índice](#cronograma)
+[Voltar para o índice](#índice)
 
 ---
 
@@ -159,7 +159,7 @@ Datas
 - Entrega do notebook: 26/03
 - Tutorial: 28/03
 
-[Voltar para o índice](#cronograma)
+[Voltar para o índice](#índice)
 
 ---
 
@@ -180,4 +180,4 @@ Datas
 - Entrega do notebook: 28/03
 - Tutorial: 02/04
 
-[Voltar para o índice](#cronograma)
+[Voltar para o índice](#índice)
