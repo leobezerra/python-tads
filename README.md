@@ -50,10 +50,6 @@ Autores:
 - Marcelo Ezequiel Moura Aragão - [github.com/marcelomoura1511](https://github.com/marcelomoura1511)
 - Marlon Secundo de Oliveira Ferreira - [github.com/marlonsecundo](https://github.com/marlonsecundo)
 
-Datas:
-- Entrega do notebook: 07/03
-- Tutorial: 12/03
-
 Notebook: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/dict.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
