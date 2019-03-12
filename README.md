@@ -31,6 +31,7 @@ Autores:
 - Matheus Coelho Gurgel do Amaral - [github/matheuscga](https://github.com/matheuscga)
 
 Notebook: 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/set.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
 
@@ -51,6 +52,7 @@ Autores:
 - Marlon Secundo de Oliveira Ferreira - [github.com/marlonsecundo](https://github.com/marlonsecundo)
 
 Notebook: 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/dict.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
 		
@@ -77,6 +79,7 @@ Datas:
 - Tutorial: 14/03
 
 Notebook: 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/list.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
 [Voltar para o índice](#índice)
