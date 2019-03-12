@@ -17,61 +17,65 @@ Este repositório foi pensado para quem já programa em Python, mas ainda não t
 
 ---
 
-#### Conjuntos
+### Conjuntos
 
 Implementações:
 - Python: `set`
 - C++: `unordered_set`
 
-Autores
-- ANDERSON PEREIRA TORRES DE SÁ NETO - [github/andersonptsn](https://github.com/andersonptsn)
-- DANILO MIRANDA DE MEDEIROS GALVÃO - [github/Fisiquelaz](https://github.com/Fisiquelaz)
-- JOÃO MENDES LOPES NETO - [github/joaomendesln](https://github.com/joaomendesln)
--	MATEUS FIRMINO BARROS - [github/mateusfb](https://github.com/mateusfb)
-- MATHEUS COELHO GURGEL DO AMARAL - [github/matheuscga](https://github.com/matheuscga)
+Autores:
+- Anderson Pereira Torres de Sá Neto - [github/andersonptsn](https://github.com/andersonptsn)
+- Danilo Miranda de Medeiros Galvão - [github/Fisiquelaz](https://github.com/Fisiquelaz)
+- João Mendes Lopes Neto - [github/joaomendesln](https://github.com/joaomendesln)
+- Mateus Firmino Barros - [github/mateusfb](https://github.com/mateusfb)
+- Matheus Coelho Gurgel do Amaral - [github/matheuscga](https://github.com/matheuscga)
 
-Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/01.ipynb)
+Notebook: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/set.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
 
 [Voltar para o índice](#índice)
 
 ---
 
-#### Dicionários
+### Dicionários
 
 Implementações:
 - Python: `dict`
 - C++: `unordered_map`
 
-Grupo 6
-- MARCELO EZEQUIEL MOURA ARAGÃO
-- MARLON SECUNDO DE OLIVEIRA FERREIRA
-- JOÃO VÍTOR FONSECA DE MENDONÇA
-- JOÃO MARCOS PEREIRA BEZERRA
+Autores:
+- João Marcos Pereira Bezerra - [github.com/marcospb19](https://github.com/marcospb19)
+- João Vítor Fonseca de Mendonça - [github.com/vitor177](https://github.com/vitor177)
+- Marcelo Ezequiel Moura Aragão - [github.com/marcelomoura1511](https://github.com/marcelomoura1511)
+- Marlon Secundo de Oliveira Ferreira - [github.com/marlonsecundo](https://github.com/marlonsecundo)
 
-Datas
+Datas:
 - Entrega do notebook: 07/03
 - Tutorial: 12/03
 
+Notebook: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/dict.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
+		
 [Voltar para o índice](#índice)
 
 ---
 
-#### Listas ordenadas manualmente
+### Listas ordenadas manualmente
 
 Implementações:
 - Python: `list`
 - C++: `array, vector, list, forward_list`
 
-Grupo 2
+Autores:
 - Acsa Laiane Arcanjo Augusto
 - Daniele Mendonça de Carvalho
 - Gabriel Lucas de Medeiros Leite
 - Gabriel Martins Spínola
 - Maria Luiza de Araújo Azevedo
 
-Datas
+Datas:
 - Entrega do notebook: 12/03
 - Tutorial: 14/03
 
@@ -79,20 +83,20 @@ Datas
 
 ---
 
-#### Listas ordenadas automaticamente
+### Listas ordenadas automaticamente
 
 Implementações:
 - Python: `sortedcontainers.SortedList`
 - C++: `multiset`
 
-Grupo 3
+Autores:
 - Álvaro Prudêncio Araújo
 - Felipe Rodrigues do Nascimento
 - Lindonilson de Oliveira Macial
 - Marcos Vinicio Araujo Delgado Junior
 - Yago Beserra Marques
 
-Datas
+Datas:
 - Entrega do notebook: 14/03
 - Tutorial: 19/03
 
@@ -106,14 +110,14 @@ Implementações:
 - Python: `queue.LifoQueue`
 - C++: `stack`
 
-Grupo 7
-* Abraão Lincol R. Cavalcante
-* Davi César de Araújo Bezerra 
-* Emanuel Felipe G. Leão
-* João Vitor Dias Xavier
-* Lucas Vinicius Sales Dantas
+Autores:
+- Abraão Lincol R. Cavalcante
+- Davi César de Araújo Bezerra 
+- Emanuel Felipe G. Leão
+- João Vitor Dias Xavier
+- Lucas Vinicius Sales Dantas
 
-Datas
+Datas:
 - Entrega do notebook: 19/03
 - Tutorial: 21/03
 
@@ -121,20 +125,20 @@ Datas
 
 ---
 
-#### Filas e deques
+### Filas e deques
 
 Implementações:
 - Python: `queue.FifoQueue` e `collections.deque`
 - C++: `queue` e `deque`
 
-Grupo 1
+Autores:
 - Bruna Soares
 - Eduardo Paixão
 - Marlus Marcos
 - Pedro Nogueira
 - Rodolfo Dantas
 
-Datas
+Datas:
 - Entrega do notebook: 21/03
 - Tutorial: 26/03
 
@@ -142,20 +146,20 @@ Datas
 
 ---
 
-#### Árvores
+### Árvores
 
 Implementações:
 - Python: milhões de bibliotecas 🤠 (`pptree`, por exemplo)
 - C++: bibliotecas (`Boost.PropertyTree`, por exemplo)
 
-Grupo 8
+Autores:
 - Felipe Eduardo
 - Fernando Igor
 - Italo Bruno 
 - Keler Yohan
 - Leonardo Santos
 
-Datas
+Datas:
 - Entrega do notebook: 26/03
 - Tutorial: 28/03
 
@@ -163,21 +167,22 @@ Datas
 
 ---
 
-#### Espaço particionado
+### Espaço particionado
 
 Implementações:
 - Python: `scipy.Spatial.KDTree`
 - C++: bibliotecas
 
-Grupo 5
+Autores:
 - Gabriel Rocha de Souza
 - Giovanna Karla de Macedo Felix
-- João Paulo Carneiro
 - Jonas Florencio
+- João Paulo Carneiro
 - Pedro Cardoso Carvalho
 
-Datas
+Datas:
 - Entrega do notebook: 28/03
 - Tutorial: 02/04
 
 [Voltar para o índice](#índice)
+
