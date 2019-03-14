@@ -74,14 +74,11 @@ Autores:
 - Gabriel Martins Spínola
 - Maria Luiza de Araújo Azevedo
 
-Datas:
-- Entrega do notebook: 12/03
-- Tutorial: 14/03
-
 Notebook: 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/list.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
+
 [Voltar para o índice](#índice)
 
 ---
