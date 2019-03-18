@@ -103,6 +103,7 @@ Datas:
 Notebook: 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CwpeH7hEs1hBJlODH4JHm8-9UE7cJL6v)
+
 [Voltar para o índice](#índice)
 
 ---
