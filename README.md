@@ -129,7 +129,7 @@ Datas:
 ### Filas e deques
 
 Implementações:
-- Python: `queue.FifoQueue` e `collections.deque`
+- Python: `queue.Queue` e `collections.deque`
 - C++: `queue` e `deque`
 
 Autores:
