@@ -21,7 +21,7 @@ Este repositório foi pensado para quem já programa em Python, mas ainda não t
 
 Implementações:
 - Python: `set`
-- C++: `unordered_set`
+- C++: `unordered_set`, `unordered_multiset`
 
 Autores:
 - Anderson Pereira Torres de Sá Neto - [github/andersonptsn](https://github.com/andersonptsn)
@@ -43,7 +43,7 @@ Notebook:
 
 Implementações:
 - Python: `dict`
-- C++: `unordered_map`
+- C++: `unordered_map`, `unordered_multimap`
 
 Autores:
 - João Marcos Pereira Bezerra - [github.com/marcospb19](https://github.com/marcospb19)
@@ -87,7 +87,7 @@ Notebook:
 
 Implementações:
 - Python: `sortedcontainers.SortedList`
-- C++: `multiset`
+- C++: `set`, `multiset`
 
 Autores:
 - Álvaro Prudêncio Araújo
@@ -96,13 +96,10 @@ Autores:
 - Marcos Vinicio Araujo Delgado Junior
 - Yago Beserra Marques
 
-Datas:
-- Entrega do notebook: 14/03
-- Tutorial: 19/03
-
 Notebook: 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CwpeH7hEs1hBJlODH4JHm8-9UE7cJL6v)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/SortedList.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
 
 [Voltar para o índice](#índice)
 
@@ -132,7 +129,7 @@ Datas:
 ### Filas e deques
 
 Implementações:
-- Python: `queue.FifoQueue` e `collections.deque`
+- Python: `queue.SimpleQueue` e `collections.deque`
 - C++: `queue` e `deque`
 
 Autores:
