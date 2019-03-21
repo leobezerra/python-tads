@@ -118,9 +118,10 @@ Autores:
 - João Vitor Dias Xavier
 - Lucas Vinicius Sales Dantas
 
-Datas:
-- Entrega do notebook: 19/03
-- Tutorial: 21/03
+Notebook: 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/LifoQueue.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
 
 [Voltar para o índice](#índice)
 
