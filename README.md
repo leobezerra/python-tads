@@ -130,7 +130,7 @@ Notebook:
 ### Filas e deques
 
 Implementações:
-- Python: `queue.SimpleQueue` e `collections.deque`
+- Python: `queue.Queue`, `queue.PriorityQueue` e `collections.deque`
 - C++: `queue` e `deque`
 
 Autores:
@@ -140,9 +140,8 @@ Autores:
 - Pedro Nogueira
 - Rodolfo Dantas
 
-Datas:
-- Entrega do notebook: 21/03
-- Tutorial: 26/03
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/Queue-deque.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
 
 [Voltar para o índice](#índice)
 
