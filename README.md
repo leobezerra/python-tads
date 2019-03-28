@@ -160,9 +160,8 @@ Autores:
 - Keler Yohan
 - Leonardo Santos
 
-Datas:
-- Entrega do notebook: 26/03
-- Tutorial: 28/03
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/tree.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
 
 [Voltar para o índice](#índice)
 
