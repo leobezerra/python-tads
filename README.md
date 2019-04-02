@@ -13,7 +13,7 @@ Este repositório foi pensado para quem já programa em Python, mas ainda não t
 5. [Pilhas](#pilhas)
 6. [Filas e deques](#filas-e-deques)
 7. [Árvores](#árvores)
-8. [Espaço particionado](#espaço-particionado)
+8. [Consultas espaciais](#consultas-espaciais)
 
 ---
 
@@ -167,7 +167,7 @@ Autores:
 
 ---
 
-### Espaço particionado
+### Consultas espaciais
 
 Implementações:
 - Python: `scipy.Spatial.KDTree`
@@ -180,9 +180,8 @@ Autores:
 - João Paulo Carneiro
 - Pedro Cardoso Carvalho
 
-Datas:
-- Entrega do notebook: 28/03
-- Tutorial: 02/04
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/KDTree.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
 
 [Voltar para o índice](#índice)
 
