@@ -34,7 +34,7 @@ Notebook:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/set.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
-
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red.svg)](https://youtu.be/24bsYVe85t8?t=620)
 [Voltar para o índice](#índice)
 
 ---
@@ -55,7 +55,7 @@ Notebook:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/dict.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
-
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red.svg)](https://youtu.be/uUl0CF3EwoI)
 [Voltar para o índice](#índice)
 
 ---
@@ -100,6 +100,7 @@ Notebook:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/python-tads/blob/master/notebooks/SortedList.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/python-tads/master)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red.svg)](https://youtu.be/I0hGOFS0Kd8)
 
 [Voltar para o índice](#índice)
 
